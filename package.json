@@ -1,25 +1,26 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-quotes",
+  "version": "1.0.0",
+  "description": "Responsive Quotes built with the latest Bootstrap 5, HTML & CSS. Free for personal & commercial use.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-quotes.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "quotes",
     "bootstrap5",
-    "circle-image-view"
+    "bootstrap-quotes",
+    "quotes-templates"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-quotes/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/quotes/"
 }
